@@ -1,3 +1,5 @@
+visual basic count ..... 
+
 Public Class Form
 Dim count As Integer = 0
 Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click Timer1.Enabled = True
@@ -47,7 +49,7 @@ End Sub
 
 shhshehehehe
 
-
+butn 1 login 
 
 Form1
 Public Class Form
