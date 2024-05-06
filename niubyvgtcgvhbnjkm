@@ -19,3 +19,42 @@ End Sub
 
 
 calculator 
+
+
+
+
+Public Class Forei
+Private Sub Button1_Click(ByVal sender As System. Object,
+Dim a, b, c,
+d, per As Double
+a - Val(TextBoxl. Text)
+b - Val(TextBox2. Text)
+c - Val(TextBox3. Text)
+d - Val(TextBox4. Text)
+per - (a + b 4 c+ d) / 400 • 100
+MsgBoxt "Percentage:
+- 8 per)
+If per > 100 Then
+TextBox.Text - Enter Marks <190"
+Elself per <- 100 And per >- 80 Then
+TextBoxs. Text -
+"A Grade"
+Elself per < 88 And per >- 60 Then
+TextBoxS. Text -
+"a Grade
+Elself per ‹ 60 and per >- 40 Then
+TextBoxs. Text -
+"C Grade"
+Else
+TextBoxS. Text ety Pass'1
+End If
+End Sup
+End Class
+I
+
+
+
+
+
+
+
