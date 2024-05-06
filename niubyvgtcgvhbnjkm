@@ -1,1 +1,21 @@
-loikjhgfgbnjmk
+Public Class Formi
+Dim number1 As Double
+Dim number2 As Double
+Dim result As Double
+Private Sub Button1_Click(sender
+As Object, e As EventArgs) Handles Button.Click
+numberl = TextBoxI.Text
+number2 = TextBox2. Text
+result = number1 + number2
+Label4. Text = result
+End Sub
+Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+number1 = TextBox1. Text
+number2 = TextBox2. Text
+result = number - number2
+Label4. Text = result
+End Sub
+
+
+
+calculator 
